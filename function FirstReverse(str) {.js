@@ -6,4 +6,4 @@ function FirstReverse(str) {
   }
      
   // keep this function call here 
-  console.log(FirstReverse(readline()));
+  console.log(FirstReverse(str));
