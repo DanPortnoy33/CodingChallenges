@@ -1,5 +1,5 @@
 function addUp(num) {
-	if(num > 0) {
+	if(num > 1) {
 	return num + addUp(num-1)}
 	
 }
