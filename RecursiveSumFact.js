@@ -3,5 +3,3 @@ function addUp(num) {
 	return num + addUp(num-1)}
 	
 }
-
-console.log(addUp(4))
